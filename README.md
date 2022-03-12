@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on ai projects
 - 📫 How to reach me discord (Marvin#3504)
 
-<!---
-marvin5567/marvin5567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+i kinda just post random stuff so there's no main focus on what i put here
+hopefully whatever i put helps you out!
+
