@@ -7,7 +7,7 @@
 
 ## 💻 projects:
 <table>
-<tr><th>Learning Projects </th</tr>
+<tr><th>Learning Projects </th><th>Active Projects</th></tr>
 <tr><td>
   
 |Title | Libraries|
@@ -15,7 +15,12 @@
 |[All purpose discord bot](https://github.com/marvin5567/all-purpose-discord-bot)|![pandas](https://img.shields.io/badge/pandas-black?style=flat-square&logo=pandas&logoColor=white) ![json](https://img.shields.io/badge/json-black?style=flat-square&logo=json&logoColor=white) ![interactions.py](https://img.shields.io/badge/interactions.py-black?style=flat-square&logo=interactions.py&logoColor=black)  ![yfinance](https://img.shields.io/badge/yfinance-black?style=flat-square&logo=yfinance&logoColor=black) ![sherlock](https://img.shields.io/badge/sherlock-black?style=flat-square&logo=sherlock&logoColor=black)|
 |[Chaos theory applied to SIR model (my IB math IA)](https://github.com/marvin5567/SIR-model-applied-to-chaos-theory)|![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy) ![matplotlib](https://img.shields.io/badge/matplotlib-black?style=flat-square&logo=Matplotlib&logoColor=black)|
 |[Image to ASCII](https://github.com/marvin5567/image-to-ascii)| ![pillow](https://img.shields.io/badge/pillow-black?style=flat-square&logo=pillow&logoColor=black) ![imageio](https://img.shields.io/badge/imageio-black?style=flat-square&logo=imageio&logoColor=black)|
-  
+
+</td><td>
+
+|Title | Libraries|
+|--|--|
+|[Untitled Terminal Game](https://github.com/marvin5567/untitled-terminal-game)||
 </tr></td>
 </table>
 
